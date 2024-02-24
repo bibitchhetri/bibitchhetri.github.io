@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bibit&#39;s Blog</title>
+  <icon>http://bibitkunwar.com.np/icon.png</icon>
+  
+  <link href="http://bibitkunwar.com.np/atom.xml" rel="self"/>
+  
+  <link href="http://bibitkunwar.com.np/"/>
+  <updated>2024-02-22T21:03:46.361Z</updated>
+  <id>http://bibitkunwar.com.np/</id>
+  
+  <author>
+    <name>Bibit Kunwar Chhetri</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> A Symphony in Code </title>
+    <link href="http://bibitkunwar.com.np/2024/02/22/hello-world/"/>
+    <id>http://bibitkunwar.com.np/2024/02/22/hello-world/</id>
+    <published>2024-02-22T15:37:46.248Z</published>
+    <updated>2024-02-22T21:03:46.361Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/paragliding.jpg&quot; alt=&quot;Fly High&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Hey there, tech pals! 👋 I’m Bibit Kunwar Chhetri, your go-to tech explorer</summary>
+        
+      
+    
+    
+    
+    <category term="Personal" scheme="http://bibitkunwar.com.np/categories/Personal/"/>
+    
+    
+    <category term="Introduction" scheme="http://bibitkunwar.com.np/tags/Introduction/"/>
+    
+    <category term="Technology" scheme="http://bibitkunwar.com.np/tags/Technology/"/>
+    
+    <category term="Linux" scheme="http://bibitkunwar.com.np/tags/Linux/"/>
+    
+    <category term="System Admin" scheme="http://bibitkunwar.com.np/tags/System-Admin/"/>
+    
+    <category term="System Programming" scheme="http://bibitkunwar.com.np/tags/System-Programming/"/>
+    
+    <category term="AI" scheme="http://bibitkunwar.com.np/tags/AI/"/>
+    
+    <category term="Research" scheme="http://bibitkunwar.com.np/tags/Research/"/>
+    
+    <category term="TechEnthusiast" scheme="http://bibitkunwar.com.np/tags/TechEnthusiast/"/>
+    
+    <category term="SelfLearner" scheme="http://bibitkunwar.com.np/tags/SelfLearner/"/>
+    
+    <category term="Perfectionist" scheme="http://bibitkunwar.com.np/tags/Perfectionist/"/>
+    
+    <category term="Bookworm" scheme="http://bibitkunwar.com.np/tags/Bookworm/"/>
+    
+    <category term="MusicLover" scheme="http://bibitkunwar.com.np/tags/MusicLover/"/>
+    
+  </entry>
+  
+</feed>
