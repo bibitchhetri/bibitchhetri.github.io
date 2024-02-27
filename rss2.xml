@@ -13,7 +13,7 @@
     </image>
     
     <atom:link href="http://bibitkunwar.com.np/rss2.xml" rel="self" type="application/rss+xml"/>
-    <atom:link href="https://feeds.feedburner.com/ns9fghkkhmw" rel="hub"/>
+    <atom:link href="https://feeds.feedburner.com/bibitkunwar/news-feed" rel="hub"/>
     <description></description>
     <pubDate>Sat, 24 Feb 2024 09:20:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
