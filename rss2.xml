@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bibit&#39;s Blog</title>
+    <link>http://bibitkunwar.com.np/</link>
+    
+    <image>
+      <url>http://bibitkunwar.com.np/icon.png</url>
+      <title>Bibit&#39;s Blog</title>
+      <link>http://bibitkunwar.com.np/</link>
+    </image>
+    
+    <atom:link href="http://bibitkunwar.com.np/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://feeds.feedburner.com/ns9fghkkhmw" rel="hub"/>
+    <description></description>
+    <pubDate>Sat, 24 Feb 2024 09:20:17 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title> A Symphony in Code </title>
+      <link>http://bibitkunwar.com.np/2024/02/22/hello-world/</link>
+      <guid>http://bibitkunwar.com.np/2024/02/22/hello-world/</guid>
+      <pubDate>Thu, 22 Feb 2024 15:37:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;img src=&quot;/images/paragliding.jpg&quot; alt=&quot;Fly High&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Hey tech fellas! 👋 I’m Bibit Kunwar Chhetri, your go-to tech explorer</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://bibitkunwar.com.np/categories/Personal/">Personal</category>
+      
+      
+      <category domain="http://bibitkunwar.com.np/tags/Introduction/">Introduction</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/Technology/">Technology</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/Linux/">Linux</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/System-Admin/">System Admin</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/System-Programming/">System Programming</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/AI/">AI</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/Research/">Research</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/TechEnthusiast/">TechEnthusiast</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/SelfLearner/">SelfLearner</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/Perfectionist/">Perfectionist</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/Bookworm/">Bookworm</category>
+      
+      <category domain="http://bibitkunwar.com.np/tags/MusicLover/">MusicLover</category>
+      
+      
+      <comments>http://bibitkunwar.com.np/2024/02/22/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
