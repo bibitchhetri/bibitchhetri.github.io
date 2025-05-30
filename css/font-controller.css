@@ -1,0 +1,29 @@
+.navbar-main .navbar-menu {
+  background-color: transparent;
+}
+.navbar-main .navbar-item {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+}
+div.card-content {
+  font-family: 'PT Serif', serif;
+}
+div.card-content .menu-level:font-size: 0.75rem,
+div.card-content .level-item {
+  font-size: 1rem;
+  font-weight: 400;
+}
+div.card-content .tag {
+  font-size: 0.75rem;
+}
+.article {
+  font-family: 'PT Serif', serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+.level-start {
+  font-family: 'PT Serif', serif;
+  font-size: 0.85rem;
+  font-weight: 400;
+}
