@@ -150,7 +150,7 @@
    *     NO DRAW IN LIGHT MODE
    * --------------------------------- */
   (function imaegoo() {
-    if (document.body.classList.contains('night')) {
+    if (document.body.classList.contains('show-universe')) {
       draw();
     }
     window.requestAnimationFrame(imaegoo);

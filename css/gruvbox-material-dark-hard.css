@@ -1,0 +1,23 @@
+pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}
+/*!
+  Theme: Gruvbox Material Dark Hard
+  origin: https://github.com/sainnhe/gruvbox-material
+  Description: Gruvbox Material Dark (Hard contrast) - highlight.js style
+  Author: (c) https://github.com/sainnhe
+  License: MIT
+*/
+.hljs{color:#d4be98}
+.hljs-comment,.hljs-meta,.hljs-quote{color:#928374;font-style:italic}
+.hljs-deletion,.hljs-selector-tag,.hljs-variable{color:#ea6962}
+.hljs-keyword{color:#d8a657}
+.hljs-link,.hljs-number,.hljs-section{color:#e78a4e}
+.hljs-literal{color:#d3869b}
+.hljs-attribute,.hljs-built_in,.hljs-name,.hljs-regexp{color:#89b482}
+.hljs-addition,.hljs-bullet,.hljs-string,.hljs-symbol{color:#a9b665}
+.hljs-char.escape_,.hljs-function,.hljs-operator,.hljs-params,.hljs-template-variable,.hljs-type,.hljs-variable.language_{color:#d8a657}
+.hljs-property,.hljs-subst,.hljs-tag,.hljs-title,.hljs-title.class_,.hljs-title.class_.inherited__,.hljs-title.function_{color:#7daea3}
+.hljs-attr,.hljs-doctag,.hljs-punctuation{color:#d4be98}
+.hljs-selector-attr,.hljs-selector-class,.hljs-selector-id,.hljs-selector-pseudo{color:#d3869b}
+.hljs-template-tag{color:#d3869b}
+.hljs-emphasis{font-style:italic}
+.hljs-strong{font-weight:700}
